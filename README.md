@@ -1,8 +1,8 @@
 # Dhrub Chatterjee
 ### Chemical Engineer · Scientific Machine Learning · Autonomous Discovery
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in//dhrub-chatterjee-b68556341/?isSelfProfile=true)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:dhrubchatterjee16@gmail.com)
 [![Domain](https://img.shields.io/badge/Focus-ChemE%20%7C%20SciML%20%7C%20PINNs-emerald)]()
 
 I bridge **first-principles Chemical Engineering** with **Modern Scientific AI**. My work focuses on thermodynamically consistent neural architectures (ICNNs, PINNs), geometric deep learning on molecular manifolds (SE(3) equivariant GNNs), and closed-loop Bayesian optimization for self-driving discovery laboratories.
